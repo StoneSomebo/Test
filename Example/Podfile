@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'zy_skeleton_view_Example' do
+  pod 'zy_skeleton_view', :path => '../'
+
+  target 'zy_skeleton_view_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
