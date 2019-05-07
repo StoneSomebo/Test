@@ -1,0 +1,6 @@
+framework module zy_skeleton_view {
+  umbrella header "zy_skeleton_view-umbrella.h"
+
+  export *
+  module * { export * }
+}

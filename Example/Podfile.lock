@@ -1,0 +1,16 @@
+PODS:
+  - zy_skeleton_view (0.1.0)
+
+DEPENDENCIES:
+  - zy_skeleton_view (from `../`)
+
+EXTERNAL SOURCES:
+  zy_skeleton_view:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zy_skeleton_view: 7df0d24e42ad5c1ccfad3c192192ed6b1e8b7ac8
+
+PODFILE CHECKSUM: 4d28d63210e950352532849fa13dbdd9f9fcdc06
+
+COCOAPODS: 1.6.1
